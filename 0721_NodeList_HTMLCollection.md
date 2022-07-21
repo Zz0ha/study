@@ -110,5 +110,3 @@ const greeting = document.querySelectorAll('.greeting');
 Array.from(greeting);
 [...greeting]
 ```
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b980b953-16f6-42a0-8190-5e071f791809/Untitled.png)
