@@ -2,6 +2,8 @@
 
 ## Intersection Observer API
 
+특정 타겟 엘리먼트가 자기 자신의 조상 엘리먼트들 중 정해진 누군가 또는 최상위 document의 viewport와 교차하는 여부에 변화가 생겼는지 비동기적으로 감지하는 API
+
 ```jsx
 //npm install react-intersection-observer --save
 
